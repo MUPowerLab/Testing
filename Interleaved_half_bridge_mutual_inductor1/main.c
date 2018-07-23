@@ -8,6 +8,6 @@
 
 hi
 
-say hi or some shit
+say hi
 
 hi
