@@ -7,3 +7,5 @@
 // Prototype statements for functions found within this file.
 
 hi
+
+say hi or some shit
